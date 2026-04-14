@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-Data%20Project-blue)
+![Status](https://img.shields.io/badge/status-completed-green)
+
 # LogGuard: Detecção Inteligente de Ameaças em Logs com IA
 
 ## Sobre o projeto
